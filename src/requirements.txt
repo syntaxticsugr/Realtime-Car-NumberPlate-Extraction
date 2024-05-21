@@ -1,5 +1,7 @@
 kaggle
+opencv-python
 pandas
 pascal-voc
 scikit-image
+screeninfo
 ultralytics
