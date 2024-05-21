@@ -1,0 +1,7 @@
+path: dataset/processed-dataset
+train: images
+val: images
+
+#Classes
+names:
+  0: numberPlate
